@@ -1,0 +1,194 @@
+/* Fundo (Normal) */
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.navbar{
+    background-color: #34C5E4;
+    height: 10.5%;
+    margin-top: -6px;
+}
+.offcanvas{
+    background-color: #39b9d6;
+}
+.logo{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-left: 5px;
+}
+   
+
+.menu{
+    border-radius: 0;
+    border: 0;
+    background: none;
+    
+}
+.navbar-itens{
+    align-items: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.foot-ter{
+    background-color: #331c50;
+}
+
+.foot-rom{
+    background-color: #f165ab;
+}
+
+.foot-mis{
+    background-color: #364F4B;
+}
+
+.foot-fan{
+    background-color: #aa1411;
+}
+
+.foot-dra{
+    background-color: #FFA746;
+}
+
+.fund-inf{
+    padding: 100px;
+}
+
+
+footer{
+  background-color: #32aeca;
+}
+/* imagens do lado (infantil) */
+.greg{
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -500px;
+}
+
+.prin{
+    position: absolute;
+    margin-left: 62%;
+    margin-top: -500px;
+    width: 30%;
+}
+
+.elef{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: -500px;
+    width: 30%;
+}
+
+/* imagens do lado (terror) */
+.zombie{
+    position: absolute;
+    margin-left: 62%;
+    margin-top: -500px;
+    width: 20%;
+}
+
+
+.caplivro{
+    max-width: 180px;
+    min-width: 180px;
+}
+
+
+
+.coplivros{
+    min-height: 220px;
+    max-height: 220px;
+
+}
+
+.card a{
+   position: absolute;
+    bottom: 0.9em;
+   right: 2.8em;
+}
+
+.logo{
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-left: 5px;
+}
+
+.produto{
+    border: none;
+}
+.card-text-atr{
+    color: black;
+}
+.card-text{
+    color: #34C5E4;
+}
+.card-footer{
+    max-height: max-content;
+    background: white;
+    border: none;
+}
+
+.cate{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.cate:hover{
+    color: black;
+    transition: 0.4s;
+}
+
+/* Login */
+
+.login {
+    background-color: white;
+    border-color: rgb(218, 218, 218);
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 400px;
+    padding: 15px;
+    box-shadow: 7px 10px 71px 7px rgba(194,194,194,0.25);
+}
+
+.login-but{
+    width: 400px;
+    margin-top: 50px;
+    box-shadow: 7px 10px 71px 7px rgba(194,194,194,0.25);
+}
+
+.cadastro {
+    background-color: white;
+    border-color: rgb(218, 218, 218);
+    border-style: solid;
+    border-width: 1px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 600px;
+    padding: 15px;
+    box-shadow: 7px 10px 71px 7px rgba(194,194,194,0.25);
+}
+
+#valisenha {
+    display: none;
+}
+
+/* Perfil */
+
+.perf{
+    position: absolute;
+    margin:  5%  0%  0% 3%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.76);
+    border-style: solid;
+    border-color: #34C5E4;
+    border-radius: 15px;
+}
